@@ -3,11 +3,11 @@ strong {
 }
 
 .site-wrapper {
-   width: 40%;
-   min-width: fit-content;
-   max-width: 640px;
-   margin-left: auto;
-   margin-right: auto; 
+    width: 40%;
+    min-width: fit-content;
+    max-width: 640px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .rounded-md {
@@ -28,6 +28,14 @@ strong {
 
 .p-8 {
     padding: 8px;
+}
+
+.p-16 {
+    padding: 16px;
+}
+
+.p-24 {
+    padding: 24px;
 }
 
 .pt-8 {
