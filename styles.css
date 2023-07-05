@@ -10,6 +10,12 @@ em {
     font-style: italic;
 }
 
+hr {
+    border: none;
+    background-color: rgb(226 232 240);
+    height: 1px;
+}
+
 .site-wrapper {
     width: 40%;
     min-width: fit-content;
