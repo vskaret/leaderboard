@@ -6,6 +6,10 @@ body {
     font-family: sans-serif;
 }
 
+em {
+    font-style: italic;
+}
+
 .site-wrapper {
     width: 40%;
     min-width: fit-content;
