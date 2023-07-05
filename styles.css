@@ -16,12 +16,17 @@ hr {
     height: 1px;
 }
 
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 0;
+}
+
 .site-wrapper {
     width: 40%;
     min-width: fit-content;
     max-width: 640px;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 32px;
 }
 
 .rounded-md {
@@ -30,6 +35,10 @@ hr {
 
 .text-center {
     text-align: center;
+}
+
+.text-left {
+    text-align: left;
 }
 
 .bg-slate-50 {
@@ -71,4 +80,16 @@ hr {
 .my-8 {
     margin-top: 8px;
     margin-bottom: 8px;
+}
+
+.font-normal {
+    font-weight: 400;
+}
+
+th {
+    font-weight: 400;
+}
+
+.table-header {
+    font-weight: 700;
 }
