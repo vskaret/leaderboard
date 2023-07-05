@@ -2,6 +2,10 @@ strong {
     font-weight: 700;
 }
 
+body {
+    font-family: sans-serif;
+}
+
 .site-wrapper {
     width: 40%;
     min-width: fit-content;
